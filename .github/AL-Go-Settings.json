@@ -1,10 +1,4 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go-PTE@main",
-  "appDependencyProbingPaths":  [
-    {
-      "repo":  "https://github.com/businesscentralapps/include",
-      "release_status":  "include"
-    }
-  ]
+  "templateUrl": "https://github.com/freddydk/AL-Go-PTE@main"
 }

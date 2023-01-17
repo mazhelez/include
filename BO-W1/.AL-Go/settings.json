@@ -1,9 +1,13 @@
 ﻿{
-    "country":  "us",
-    "appFolders":  [
-
-                   ],
-    "testFolders":  [
-
-                    ]
+    "country": "us",
+    "appFolders": [],
+    "testFolders": [],
+    "appDependencyProbingPaths": [
+        {
+            "repo": "https://github.com/businesscentralapps/include",
+            "release_status": "include",
+            "projects": "Common"
+        }
+    ],
+    "generateDependencyArtifacts": true
 }
