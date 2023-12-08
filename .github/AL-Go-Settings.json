@@ -1,5 +1,5 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/mazhelez/AL-Go@fix-incremental-build",
-  "templateSha": "3b516ee823bad85bb250fd0f0d609d84a2d5e060"
+  "templateUrl": "https://github.com/freddydk/AL-Go@checkSecrets",
+  "templateSha": "e1d526b361be943cf03b52c9c273337e22c1274d"
 }
